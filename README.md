@@ -1,4 +1,4 @@
-# the-grand-tour
+# The Grand Tour
 Semester-long project for LMC 6340: Reality Experience Design
 
 ## Prerequisites
